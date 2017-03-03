@@ -15,6 +15,7 @@
 		744163B11E693C4100F96EA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 744163AF1E693C4100F96EA3 /* LaunchScreen.storyboard */; };
 		744163BC1E693C4100F96EA3 /* PushNotifacationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 744163BB1E693C4100F96EA3 /* PushNotifacationTests.m */; };
 		744163C71E693C4200F96EA3 /* PushNotifacationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 744163C61E693C4200F96EA3 /* PushNotifacationUITests.m */; };
+		744163D51E6940DC00F96EA3 /* buyao.wav in Resources */ = {isa = PBXBuildFile; fileRef = 744163D41E6940DC00F96EA3 /* buyao.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		744163C21E693C4100F96EA3 /* PushNotifacationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PushNotifacationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		744163C61E693C4200F96EA3 /* PushNotifacationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PushNotifacationUITests.m; sourceTree = "<group>"; };
 		744163C81E693C4200F96EA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		744163D41E6940DC00F96EA3 /* buyao.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = buyao.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				744163A71E693C4100F96EA3 /* ViewController.h */,
 				744163A81E693C4100F96EA3 /* ViewController.m */,
 				744163AA1E693C4100F96EA3 /* Main.storyboard */,
+				744163D41E6940DC00F96EA3 /* buyao.wav */,
 				744163AD1E693C4100F96EA3 /* Assets.xcassets */,
 				744163AF1E693C4100F96EA3 /* LaunchScreen.storyboard */,
 				744163B21E693C4100F96EA3 /* Info.plist */,
@@ -244,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				744163B11E693C4100F96EA3 /* LaunchScreen.storyboard in Resources */,
+				744163D51E6940DC00F96EA3 /* buyao.wav in Resources */,
 				744163AE1E693C4100F96EA3 /* Assets.xcassets in Resources */,
 				744163AC1E693C4100F96EA3 /* Main.storyboard in Resources */,
 			);
